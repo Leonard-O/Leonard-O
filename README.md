@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any Javascript projects
-- 📫 How to reach me on whatsapp @ +254 723032055, Email: realcodedeves@gmail.com, Tweeter: @EditsRealcode
+- 📫 How to reach me: WhatsApp @ +254 723032055, Email: realcodedeves@gmail.com, Tweeter: @EditsRealcode
 
 <!---
 Leonard-O/Leonard-O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
